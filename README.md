@@ -1,1 +1,1 @@
-# challenge-14-tech-blog
+# just-tech-news
